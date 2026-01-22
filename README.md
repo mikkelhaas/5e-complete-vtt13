@@ -1,5 +1,5 @@
 # 5e Complete
-The full D&amp;D 5th Edition compendium for Foundry VTT.
+The full D&D 5th Edition compendium for Foundry VTT.
 
 Midas:
 
@@ -9,30 +9,39 @@ The module.json is now updated to the latest specification and has been modified
 
 I will continue to support this Fork for the foreseeable future, as i use it weekly.
 
+Currently updating to a new linked Compendium style, external cdn images, tons of item additions and 2024 rules.
+
 Have fun and please remember to "only use content you own"...
 
 ---
 
-Original:
+[Original by Archer](https://github.com/Archer39/5e-complete):
 
 This module was designed to fill in the holes of the 5e SRD that's included with Foundry, including all of the official classes and their subclasses, spells, races, and so on.
 
 A special thanks goes to my friends that have helped get this compendium to where it is, and also a big thank you to [Zhell](https://github.com/krbz999?tab=repositories) for helping with the macros.
 
+---
 
 ## Disclaimers
 - Please only utilize the resources in this module that you personally own. Treat this as you would downloading a video game ROM and respect the copyright of Wizards of the Coast and other 3rd parties whose homebrew content has been imported
 - This is a work in progress; many class features, spells, races, backgrounds, and feats are still missing.
 - The creatures have image references that you won't have, and I can't think of a way around that. Sorry.
 
+---
+
 ## Installation
 You can find the latest release here: [Click](https://github.com/xImidasIx/5e-complete/releases/latest) **|Current: V13 - Stable|**
 
 For copyright reasons, 5e Complete will not be published on official platforms. Please install using the `5e-complete-V12.zip` from the [latest release](https://github.com/xImidasIx/5e-complete/releases/download/release/5e-complete-V12.zip) or "possibly" by copying the link address/ URL to module.json and pasting it into FoundryVTT (Untested):
-| Major Version | Minor Version | Link |
-|--------------|---------------|------|
-| V13 module.json | 13.350 | [module.json](https://github.com/xImidasIx/5e-complete/releases/download/release-V13/module.json) |
-| V12 module.json | 12.343 | [module.json](https://github.com/xImidasIx/5e-complete/releases/download/release/module.json) |
+| 5e Rules Version | Major Version | Minor Version | Link |
+|------|-----------------|--------|---------------------------------------------------------------------------------------------------|
+| 2024 | V13 module.json | 13.350 | SoonTM |
+| 2024 | V12 module.json | 12.343 | SoonTM |
+| 2014 | V13 module.json | 13.350 | [module.json](https://github.com/xImidasIx/5e-complete/releases/download/release-V13/module.json) |
+| 2014 | V12 module.json | 12.343 | [module.json](https://github.com/xImidasIx/5e-complete/releases/download/release/module.json)     |
+
+---
 
 ## Recommended Modules
 5e Complete has been designed utilizing the following modules and are recommended (but not required):
@@ -43,6 +52,8 @@ For copyright reasons, 5e Complete will not be published on official platforms. 
 - [Roll Groups](https://github.com/krbz999/rollgroups)
 - [Tidy5e Sheet](https://github.com/sdenec/tidy5e-sheet)
 - [Wild Magic Surge 5e](https://github.com/johnnolan/wild-magic-surge-5e)
+
+---
 
 ### Final Remarks
 Thank you for trying out this module! Please provide feedback on what might be broken or missing. A massive task that needs attention is automation and creating macros, so should you ever download this module and create your own macros the project would love to import them! Same with updated databases!
